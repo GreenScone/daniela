@@ -382,3 +382,5 @@ chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
         sendResponse({name: $('#user-info p:eq(1)').text()});
     }
 });
+
+$('#translate').show();
