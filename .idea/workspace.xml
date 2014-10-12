@@ -26,18 +26,17 @@
       <file leaf-file-name="svadba-chat-include-pack.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="383" column="40" selection-start="17226" selection-end="17226" vertical-scroll-proportion="0.76627713" vertical-offset="0" max-vertical-offset="629">
+            <state line="11" column="58" selection-start="924" selection-end="924" vertical-scroll-proportion="0.312187" vertical-offset="0" max-vertical-offset="646">
               <folding>
                 <element signature="n#!!block;n#strt#0" expanded="false" />
-                <element signature="e#5634#10578#0" expanded="false" />
-                <element signature="e#10635#10972#0" expanded="false" />
-                <element signature="e#10976#11497#0" expanded="false" />
-                <element signature="e#11498#12694#0" expanded="false" />
+                <element signature="e#5650#10594#0" expanded="false" />
+                <element signature="e#10992#11513#0" expanded="false" />
+                <element signature="e#11514#12710#0" expanded="false" />
                 <element signature="n#!!block;n#set_mans#0" expanded="false" />
-                <element signature="e#13609#17042#0" expanded="false" />
-                <marker date="1413111611120" expanded="true" signature="11071:11084" placeholder="..." />
-                <marker date="1413111611120" expanded="false" signature="15346:15377" placeholder="..." />
-                <marker date="1413111611120" expanded="true" signature="16191:16204" placeholder="..." />
+                <element signature="e#13625#17058#0" expanded="false" />
+                <marker date="1413111760075" expanded="true" signature="11087:11100" placeholder="..." />
+                <marker date="1413111760075" expanded="false" signature="15362:15393" placeholder="..." />
+                <marker date="1413111760075" expanded="true" signature="16207:16220" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -125,19 +124,19 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -163,18 +162,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="383" column="40" selection-start="17226" selection-end="17226" vertical-scroll-proportion="0.76627713" vertical-offset="0" max-vertical-offset="629">
+        <state line="11" column="58" selection-start="924" selection-end="924" vertical-scroll-proportion="0.312187" vertical-offset="0" max-vertical-offset="646">
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
-            <element signature="e#5634#10578#0" expanded="false" />
-            <element signature="e#10635#10972#0" expanded="false" />
-            <element signature="e#10976#11497#0" expanded="false" />
-            <element signature="e#11498#12694#0" expanded="false" />
+            <element signature="e#5650#10594#0" expanded="false" />
+            <element signature="e#10992#11513#0" expanded="false" />
+            <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13609#17042#0" expanded="false" />
-            <marker date="1413111611120" expanded="true" signature="11071:11084" placeholder="..." />
-            <marker date="1413111611120" expanded="false" signature="15346:15377" placeholder="..." />
-            <marker date="1413111611120" expanded="true" signature="16191:16204" placeholder="..." />
+            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1413111760075" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1413111760075" expanded="false" signature="15362:15393" placeholder="..." />
+            <marker date="1413111760075" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
