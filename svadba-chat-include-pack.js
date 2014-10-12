@@ -377,10 +377,11 @@ setInterval(function(){
         }
     });
 },2000);
+$('#translate').hide();
+
 chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
     if(request.type=='init'){
         sendResponse({name: $('#user-info p:eq(1)').text()});
     }
 });
 
-$('#translate').show();

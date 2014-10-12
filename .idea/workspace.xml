@@ -26,11 +26,18 @@
       <file leaf-file-name="svadba-chat-include-pack.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="383" column="1" selection-start="17230" selection-end="17230" vertical-scroll-proportion="0.8297162" vertical-offset="6014" max-vertical-offset="6664">
+            <state line="383" column="40" selection-start="17226" selection-end="17226" vertical-scroll-proportion="0.76627713" vertical-offset="0" max-vertical-offset="629">
               <folding>
-                <marker date="1413111510827" expanded="true" signature="11071:11084" placeholder="..." />
-                <marker date="1413111510827" expanded="false" signature="15346:15377" placeholder="..." />
-                <marker date="1413111510827" expanded="true" signature="16191:16204" placeholder="..." />
+                <element signature="n#!!block;n#strt#0" expanded="false" />
+                <element signature="e#5634#10578#0" expanded="false" />
+                <element signature="e#10635#10972#0" expanded="false" />
+                <element signature="e#10976#11497#0" expanded="false" />
+                <element signature="e#11498#12694#0" expanded="false" />
+                <element signature="n#!!block;n#set_mans#0" expanded="false" />
+                <element signature="e#13609#17042#0" expanded="false" />
+                <marker date="1413111611120" expanded="true" signature="11071:11084" placeholder="..." />
+                <marker date="1413111611120" expanded="false" signature="15346:15377" placeholder="..." />
+                <marker date="1413111611120" expanded="true" signature="16191:16204" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -156,11 +163,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="383" column="1" selection-start="17230" selection-end="17230" vertical-scroll-proportion="0.8297162" vertical-offset="6014" max-vertical-offset="6664">
+        <state line="383" column="40" selection-start="17226" selection-end="17226" vertical-scroll-proportion="0.76627713" vertical-offset="0" max-vertical-offset="629">
           <folding>
-            <marker date="1413111510827" expanded="true" signature="11071:11084" placeholder="..." />
-            <marker date="1413111510827" expanded="false" signature="15346:15377" placeholder="..." />
-            <marker date="1413111510827" expanded="true" signature="16191:16204" placeholder="..." />
+            <element signature="n#!!block;n#strt#0" expanded="false" />
+            <element signature="e#5634#10578#0" expanded="false" />
+            <element signature="e#10635#10972#0" expanded="false" />
+            <element signature="e#10976#11497#0" expanded="false" />
+            <element signature="e#11498#12694#0" expanded="false" />
+            <element signature="n#!!block;n#set_mans#0" expanded="false" />
+            <element signature="e#13609#17042#0" expanded="false" />
+            <marker date="1413111611120" expanded="true" signature="11071:11084" placeholder="..." />
+            <marker date="1413111611120" expanded="false" signature="15346:15377" placeholder="..." />
+            <marker date="1413111611120" expanded="true" signature="16191:16204" placeholder="..." />
           </folding>
         </state>
       </provider>
