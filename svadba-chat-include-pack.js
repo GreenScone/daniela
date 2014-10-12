@@ -8,8 +8,8 @@ var online = [];
 var stor = 1;
 
 $('head').append('<style>#chat_act .message {height:11px!important;} #online-opponents { top:72px!important;} #snd_a_man { height:14px; position: absolute; left: 8px; top: 144px; z-index: 999; border: solid 1px #ccc; padding: 8px; background: #fff; width: 244px; overflow: hidden; bottom:auto; height:14px;} #snd_a_man a {font-family: tahoma; color: #5685d5;} #snd_a_man a:hove{ text-decoration: none;} #sending_list, #sending_list li { padding:0; margin:0; list-style: none;} #sending_list { border: solid 1px #ccc; overflow: auto; height:90%; } #sending_list li { padding: 2px 5px; border-bottom: solid 1px #ccc; color:#5685d5;cursor: pointer;} #sending_list li:hover { background:#5685d5;color:#fff;}</style>');
-$('#translate').show();
-$('#translate input[type="submit"]').css({ width: '112px', height: '27px', background: '#26ade4', textIndent: '0', lineHeight: 'auto', marginRight: '20px', fontWeight: 'bold', color: '#fff', borderRadius: '10px'}).val('WMID Translate');
+$('#translate').hide();
+$('#translate input[type="submit"]').css({ width: '112px', height: '27px', background: '#26ade4', textIndent: '0', lineHeight: 'auto', marginRight: '20px', fontWeight: 'bold', color: '#fff', borderRadius: '10px'}).val('Translate');
 $('#translate .popup').hide();
 
 
@@ -341,7 +341,7 @@ setInterval(function(){
                         }
                     },30000);
                     $('.au').remove();
-                    $('body').append('<audio controls style="position:relative;z-index:9999;" class="au" autoplay><source src="https://wmid.googlecode.com/git/svadba/au.ogg" type="audio/ogg; codecs=vorbis"><source src="https://wmid.googlecode.com/git/svadba/au.mp3" type="audio/mpeg"></audio>');
+                    $('body').append('<audio controls style="position:relative;z-index:9999;" class="au" autoplay><source src="https://raw.githubusercontent.com/GreenScone/daniela/master/au.ogg" type="audio/ogg; codecs=vorbis"><source src="https://raw.githubusercontent.com/GreenScone/daniela/master/au.mp3" type="audio/mpeg"></audio>');
                 }
                 if($('#chat_act ul li').size()==0){ $('#chat_act ul').html('');}
                 $.getJSON('http://www.svadba.com/chat/updates/member/'+client_id+'/?member-with='+client_id,function(ssss){ set_mans(ssss); });
@@ -376,101 +376,6 @@ setInterval(function(){
             }
         }
     });
-    /*$.getJSON('http://chat.svadba.com/updates/status+unreads/everyone/',function(s){
-     request = s;
-     if(typeof(request)!=null){
-     for(i=0;i<request.length;i++){
-     if(request[i].type=='status'||request[i].type=='unreads'){
-
-     for(s=0;s<request[i].updates.length;s++){
-     if(request[i].updates[s].__type=='communication-status-notification:urn:com.anastasiadate.chat'){
-     var chats = '';
-     if(request[i].updates[s].girl.chats.length>=3){
-     clearInterval(interval);
-     status = 0;
-     }
-     for(c=0;c<request[i].updates[s].girl.chats.length;c++){
-     console.log(request[i].updates[s].girl.chats);
-     var public_name = '';
-     var public_id = '';
-     public_name = request[i].updates[s].girl.chats[c]['client-id'];
-
-     var smiles = ['O:)',':)',';)'];
-     var msg = smiles[Math.floor(Math.random()*smiles.length)];
-     $.get('http://chat.svadba.com/chat/#/'+request[i].updates[s].girl.chats[c]['client-id'],function(ss){ console.log('get_man');});
-
-     var client = request[i].updates[s].girl.chats[c]['client-id'];
-
-     if(mans_chat.length>0){
-     if (mans_chat.join().search(client) == -1) {
-     setTimeout(function(){
-     if(window.location.hash!='#/'+client){
-     $.post("http://chat.svadba.com/send-message/"+client,{tag:client,source:'lc',message:msg},function(ss){ console.log('post'); });
-     }
-     },30000);
-     mans_chat.push(client);
-     $('.au').remove();
-     $('body').append('\
-     <audio controls style="position:relative;z-index:9999;" class="au" autoplay>\
-     <source src="https://wmid.googlecode.com/git/svadba/au.ogg" type="audio/ogg; codecs=vorbis">\
-     <source src="https://wmid.googlecode.com/git/svadba/au.mp3" type="audio/mpeg">\
-     Тег audio не поддерживается вашим браузером. <a href="audio/music.mp3">Скачайте музыку</a>.\
-     </audio>');
-     }
-     }else{
-     setTimeout(function(){
-     if(window.location.hash!='#/'+client){
-     $.post("http://chat.svadba.com/send-message/"+client,{tag:client,source:'lc',message:msg},function(ss){ console.log('post');	});
-     }
-     },30000);
-
-     mans_chat.push(request[i].updates[s].girl.chats[c]['client-id']);
-     $('.au').remove();
-     $('body').append('\
-     <audio controls style="position:relative;z-index:9999;" class="au" autoplay>\
-     <source src="https://wmid.googlecode.com/git/svadba/au.ogg" type="audio/ogg; codecs=vorbis">\
-     <source src="https://wmid.googlecode.com/git/svadba/au.mp3" type="audio/mpeg">\
-     Тег audio не поддерживается вашим браузером. <a href="audio/music.mp3">Скачайте музыку</a>.\
-     </audio>');
-     }
-     var status = 'chat';
-     if(request[i].updates[s].girl.chats[c]['video-allowed']==true){
-     status = 'video_chat';
-
-     }
-
-     var active = '';
-     if(request[i].updates[s].girl.chats[c]['client-id']==window.location.hash.split('#/').join('')){
-     active = 'active';
-     }
-     chats += '<li class="cl '+active+'" onclick="window.location.href=\'#/'+request[i].updates[s].girl.chats[c]['client-id']+'\'" id="m_'+request[i].updates[s].girl.chats[c]['client-id']+'" rel = "'+request[i].updates[s].girl.chats[c]['client-id']+'"><span class="ics '+status+'"></span> '+public_name+'</li>';
-     mans_invite.push({id:request[i].updates[s].girl.chats[c]['client-id']});
-     }
-     if(chats!=''){
-     $('#chat_act ul').html(chats);
-     }else{
-     $('#chat_act ul').html('<div align="center" style="padding:10px;">Нет чатов</span>');
-     }
-     $('.chat_act li').click(function(){
-     window.location.href="#/"+$(this).attr('rel');
-     });
-     $('#chat_act ul li').click(function(){
-     $('#chat_act ul li').removeClass('active');
-     $(this).addClass('active');
-     });
-     }
-     if(request[i].updates[s].__type=='unread-message-notification:urn:com.anastasiadate.chat'){
-     if(request[i].updates[s].member.id!=girl){
-     $('#chat_act ul #m_'+request[i].updates[s].member.id+' span').addClass('message');
-     }
-     }
-     }
-     }
-
-     }
-     }
-     });*/
-
 },2000);
 chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
     if(request.type=='init'){
