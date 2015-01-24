@@ -94,7 +94,7 @@ window.name="LiveChatWindow";
 					inprogress+=id+",";
 
 					queue.push({
-						name:name,
+						name:$('#chatnick').val(),
 						siteidmenid:siteidmenid,
 						hrumenid:id,
 						text:text,
