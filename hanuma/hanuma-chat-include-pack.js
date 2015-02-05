@@ -48,7 +48,7 @@ window.name="LiveChatWindow";
 					text=text.replace(/\n/g,"\\\n\r");
 				}
 
-				script.text="(function(){var msg=\""+mess.text+"\",wurl=\"sid="+smid[0]+"&mid="+smid[1]+"&hmid="+mess.hrumenid+"&gid=\"+girlid+\"&dr=\"+mengirl+\"&n="+encodeURIComponent(mess.name)+"&msg=\"+ encodeURIComponent(msg);"+mess.add+"ajax_write(addmesurl,wurl,girlid,\""+mess.name+"\",msg);})();";
+				script.text="(function(){var msg=\""+mess.text+"\",wurl=\"sid="+smid[0]+"&mid="+smid[1]+"&hmid="+mess.hrumenid+"&gid=\"+girlid+\"&dr=\"+mengirl+\"&n="+encodeURIComponent(name)+"&msg=\"+ encodeURIComponent(msg);"+mess.add+"ajax_write(addmesurl,wurl,girlid,\""+name+"\",msg);})();";
 				document.body.appendChild(script).parentNode.removeChild(script);
 				mess.F(true);
 				Status(cnt);
