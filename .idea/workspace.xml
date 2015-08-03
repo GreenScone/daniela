@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d26ea9-06b1-45c0-baf3-b1160bd4efe6" name="Default" comment="" />
+    <list default="true" id="40d26ea9-06b1-45c0-baf3-b1160bd4efe6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sendmessage.js" afterPath="$PROJECT_DIR$/sendmessage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="daniela.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -37,9 +40,6 @@
                 <element signature="e#11514#12710#0" expanded="false" />
                 <element signature="n#!!block;n#set_mans#0" expanded="false" />
                 <element signature="e#13625#17058#0" expanded="false" />
-                <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-                <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-                <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -55,23 +55,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hanuma-chat-include-pack.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hanuma-chat-include-pack.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
               <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-              <folding>
-                <marker date="1423176041759" expanded="false" signature="83:100" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendmessage.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="zolushka-chat.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sendmessage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sendmessage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="646">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.71223813" vertical-offset="0" max-vertical-offset="907">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -88,20 +96,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/svadba-chat-include-pack.js" />
+        <option value="$PROJECT_DIR$/zolushka-chat.js" />
         <option value="$PROJECT_DIR$/sendmessage.js" />
-        <option value="$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js" />
       </list>
     </option>
   </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
-    <option name="y" value="-783" />
-    <option name="width" value="1200" />
-    <option name="height" value="1920" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,7 +198,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-783" width="1200" height="1920" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -198,19 +208,19 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26730105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28198293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -245,9 +255,6 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -263,27 +270,22 @@
     <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
-          <caret line="87" column="50" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
-          <folding>
-            <marker date="1423176041759" expanded="false" signature="83:100" placeholder="..." />
-          </folding>
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/system_o.log">
+    <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sendmessage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="646">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="765">
           <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
           <folding />
         </state>
@@ -300,9 +302,6 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -318,27 +317,22 @@
     <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
-          <caret line="87" column="50" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
-          <folding>
-            <marker date="1423176041759" expanded="false" signature="83:100" placeholder="..." />
-          </folding>
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/system_o.log">
+    <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sendmessage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="646">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="765">
           <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
           <folding />
         </state>
@@ -355,9 +349,53 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="765">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="n#!!block;n#strt#0" expanded="false" />
+            <element signature="e#5650#10594#0" expanded="false" />
+            <element signature="e#10992#11513#0" expanded="false" />
+            <element signature="e#11514#12710#0" expanded="false" />
+            <element signature="n#!!block;n#set_mans#0" expanded="false" />
+            <element signature="e#13625#17058#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -374,9 +412,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3723">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="765">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
           <folding>
-            <marker date="1423176041759" expanded="false" signature="83:100" placeholder="..." />
+            <element signature="n#!!block;n#strt#0" expanded="false" />
+            <element signature="e#5650#10594#0" expanded="false" />
+            <element signature="e#10992#11513#0" expanded="false" />
+            <element signature="e#11514#12710#0" expanded="false" />
+            <element signature="n#!!block;n#set_mans#0" expanded="false" />
+            <element signature="e#13625#17058#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
+          <caret line="87" column="50" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -399,9 +474,45 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
+          <caret line="87" column="50" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="646">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="n#!!block;n#strt#0" expanded="false" />
+            <element signature="e#5650#10594#0" expanded="false" />
+            <element signature="e#10992#11513#0" expanded="false" />
+            <element signature="e#11514#12710#0" expanded="false" />
+            <element signature="n#!!block;n#set_mans#0" expanded="false" />
+            <element signature="e#13625#17058#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -418,9 +529,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3723">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1423176041759" expanded="false" signature="83:100" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -443,9 +552,45 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3723">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="646">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="n#!!block;n#strt#0" expanded="false" />
+            <element signature="e#5650#10594#0" expanded="false" />
+            <element signature="e#10992#11513#0" expanded="false" />
+            <element signature="e#11514#12710#0" expanded="false" />
+            <element signature="n#!!block;n#set_mans#0" expanded="false" />
+            <element signature="e#13625#17058#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -469,9 +614,6 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -495,18 +637,7 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sendmessage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,9 +652,6 @@
             <element signature="e#11514#12710#0" expanded="false" />
             <element signature="n#!!block;n#set_mans#0" expanded="false" />
             <element signature="e#13625#17058#0" expanded="false" />
-            <marker date="1421788495160" expanded="false" signature="11087:11100" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="15362:15393" placeholder="..." />
-            <marker date="1421788495160" expanded="false" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -536,27 +664,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/system_o.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="2431">
-          <caret line="22" column="400" selection-start-line="22" selection-start-column="400" selection-end-line="22" selection-end-column="417" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
           <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding>
-            <marker date="1423176041759" expanded="false" signature="83:100" placeholder="..." />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71223813" vertical-offset="0" max-vertical-offset="907">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
