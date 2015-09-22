@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d26ea9-06b1-45c0-baf3-b1160bd4efe6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sendmessage.js" afterPath="$PROJECT_DIR$/sendmessage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="daniela.iws" />
@@ -31,16 +30,35 @@
       <file leaf-file-name="svadba-chat-include-pack.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="2975">
+              <caret line="257" column="2" selection-start-line="257" selection-start-column="2" selection-end-line="257" selection-end-column="2" />
               <folding>
                 <element signature="n#!!block;n#strt#0" expanded="false" />
                 <element signature="e#5650#10594#0" expanded="false" />
-                <element signature="e#10992#11513#0" expanded="false" />
-                <element signature="e#11514#12710#0" expanded="false" />
-                <element signature="n#!!block;n#set_mans#0" expanded="false" />
-                <element signature="e#13625#17058#0" expanded="false" />
+                <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+                <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+                <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zolushka-mail-popup-new.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-popup-new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="612">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zolushka-mail-popup-expired.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-popup-expired.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="442">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,18 +86,51 @@
       <file leaf-file-name="zolushka-chat.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="374">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendmessage.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <file leaf-file-name="zolushka-chat-include-init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71302426" vertical-offset="0" max-vertical-offset="906">
-              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zolushka-chat-include-pack.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-pack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3876">
+              <caret line="39" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="222" selection-end-column="11" />
+              <folding>
+                <marker date="1442414593450" expanded="true" signature="71:122" placeholder="..." />
+                <marker date="1442414593450" expanded="true" signature="6637:6843" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zolushka-mail-include-init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-include-init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zolushka-mail-include-pack.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-include-pack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04775281" vertical-offset="255" max-vertical-offset="6120">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -100,6 +151,8 @@
       <list>
         <option value="$PROJECT_DIR$/zolushka-chat.js" />
         <option value="$PROJECT_DIR$/sendmessage.js" />
+        <option value="$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-init.js" />
+        <option value="$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-pack.js" />
       </list>
     </option>
   </component>
@@ -108,10 +161,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="1920" />
+    <option name="y" value="-783" />
+    <option name="width" value="1200" />
+    <option name="height" value="1920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -167,6 +220,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="zolushka-mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daniela" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daniela" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zolushka-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daniela" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daniela" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="hanuma" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -178,10 +259,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../armen/armen_shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -198,29 +299,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1920" y="-783" width="1200" height="1920" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918918" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28518122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2897924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -240,7 +341,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -251,57 +354,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-popup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hanuma/hanuma-chat-include-pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3723">
-          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="374">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sendmessage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="n#!!block;n#strt#0" expanded="false" />
-            <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -345,10 +400,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -392,10 +446,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -439,10 +492,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -478,10 +530,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -517,10 +568,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -556,10 +606,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -595,10 +644,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -634,10 +682,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -657,10 +704,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -680,25 +726,9 @@
           <folding>
             <element signature="n#!!block;n#strt#0" expanded="false" />
             <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="n#!!block;n#strt#0" expanded="false" />
-            <element signature="e#5650#10594#0" expanded="false" />
-            <element signature="e#10992#11513#0" expanded="false" />
-            <element signature="e#11514#12710#0" expanded="false" />
-            <element signature="n#!!block;n#set_mans#0" expanded="false" />
-            <element signature="e#13625#17058#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -719,6 +749,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7505519" vertical-offset="0" max-vertical-offset="906">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zolushka-chat.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
@@ -727,10 +765,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendmessage.js">
+    <entry file="file://$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71302426" vertical-offset="0" max-vertical-offset="906">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3876">
+          <caret line="39" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="222" selection-end-column="11" />
+          <folding>
+            <marker date="1442414593450" expanded="true" signature="71:122" placeholder="..." />
+            <marker date="1442414593450" expanded="true" signature="6637:6843" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svadba-chat-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="2975">
+          <caret line="257" column="2" selection-start-line="257" selection-start-column="2" selection-end-line="257" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!block;n#strt#0" expanded="false" />
+            <element signature="e#5650#10594#0" expanded="false" />
+            <marker date="1427368563372" expanded="true" signature="11087:11100" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="15362:15393" placeholder="..." />
+            <marker date="1427368563372" expanded="true" signature="16207:16220" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-popup-expired.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1809">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-popup-new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1809">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-include-init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1823">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zolushka-mail/zolushka-mail-include-pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04775281" vertical-offset="255" max-vertical-offset="6120">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
