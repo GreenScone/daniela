@@ -176,7 +176,7 @@
 									text=text.replace(/\r/g,"\n");
 									text=text.replace(/\n/g,"\\\n\r");
 								
-									script.text="(function(){var data="+JSON.stringify(v)+";data.IsTwoWayChat=data.IsTwoWayChat.toString().bool() ? true : parseInt(data.LastMessageAccount)!=parseInt(Chat_myStatus.account);Chat_GetDialog(data.AccountNumber);data.EntryType=Chat_ChatListEntry_EntryType(data);Chat_ChatListEntry_Update(data);Chat_OnlineList_Refresh(data.accountNumber);Chat_PostMessage_AddMessageToDialogs("+v.AccountNumber+",\""+text+"\");Chat_PostMessage_SendData("+v.AccountNumber+",\""+text+"\");})();";
+									script.text="(function(){var data="+JSON.stringify(v)+";data.IsTwoWayChat=data.IsTwoWayChat.toString().bool() ? true : parseInt(data.LastMessageAccount)!=parseInt(Chat_myStatus.account);Chat_GetDialog(data.AccountNumber);data.EntryType=Chat_ChatListEntry_EntryType(data);Chat_ChatListEntry_Update(data);Chat_OnlineList_Refresh(data.accountNumber);$.post('"+location.protocol+"//"+location.hostname+"/services/ChatMessageService.asmx/PostMessage',{toAccountNumber:"+v.AccountNumber+",message:'"+text+"',autoReply:false,isClose:false},function(){});})();";
 									document.head.appendChild(script).parentNode.removeChild(script);
 
 									Status(cnt);
