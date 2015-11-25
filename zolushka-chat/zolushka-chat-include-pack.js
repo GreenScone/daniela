@@ -71,7 +71,7 @@
 							queue.push(function(){
 								sentids+=v.AccountNumber+",";
 								cnt++;
-
+								console.log(v.AccountNumber);
 								//Помещаем в чат
 								var script=document.createElement("script");
 								v.LastMessageAccount=myid;
