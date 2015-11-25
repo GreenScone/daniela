@@ -171,6 +171,7 @@
 
 									v.LastMessageAccount=myid;
 
+									console.log(v.AccountNumber);
 									text=text.replace(/"/g,"\\\"");
 									text=text.replace(/\r\n/g,"\n");
 									text=text.replace(/\r/g,"\n");
