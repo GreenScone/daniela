@@ -131,7 +131,7 @@ var SWMID = {
 		SWMID.var_type_send=obj.list;
 		SWMID.var_country=obj.country;
 		if(obj.speed==0){
-			SWMID.var_limit_stime=10;
+			SWMID.var_limit_stime=8;
 		}else if(obj.speed==1){
 			SWMID.var_limit_stime=40;
 		}else if(obj.speed==2){
@@ -173,8 +173,8 @@ var SWMID = {
 				.fail(function(s) {
 					/*if($.trim(s.status)==429&&SWMID.var_status!='stop'){
 						SWMID.var_status = 'pause';
-						SWMID.var_time_auto = null;
-						console.log('pause');
+						SWMID.var_time_auto = null;*/
+						console.log(s);/*
 						SWMID.send_auto(true);
 					}*/
 				});
