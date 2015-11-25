@@ -17,7 +17,7 @@ function strt(request){
     var postlist = [];
     var obj = status_obj = request.object[0];
     if(obj.speed==0){
-        var speed = 3000;
+        var speed = 7500;
     }else if(obj.speed==1){
         var speed = 2000;
     }else if(obj.speed==2){
@@ -47,6 +47,9 @@ function strt(request){
     //$('#snd_a_man').css({'bottom':0,'height':'auto'});
     interval = setInterval(function(){
         if(postlist[n]){
+            while(postlist[n] && !(postlist[n].age>=(obj.age_from-0)&&postlist[n].age<=(obj.age_to-0))){
+                n += 1;
+            }
             if(postlist[n].age>=(obj.age_from-0)&&postlist[n].age<=(obj.age_to-0)){
                 console.log(postlist[n].country);
                 //if((postlist[n].country==obj.country)||obj.country==0){
