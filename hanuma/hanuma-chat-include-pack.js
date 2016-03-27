@@ -132,7 +132,7 @@ window.name="LiveChatWindow";
 			queue=[];
 		}
 		Status(cnt);
-		tinfo.text("Рассылка остановлена").css("color","");
+		tinfo.text("Рассылка остановлена.").css("color","");
 	};
 
 	storage=storage ? $.parseJSON(storage)||{} : {};
