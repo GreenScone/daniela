@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d26ea9-06b1-45c0-baf3-b1160bd4efe6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-init.js" afterPath="$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-pack.js" afterPath="$PROJECT_DIR$/zolushka-chat/zolushka-chat-include-pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zolushka-chat/zolushka-chat-popup.html" afterPath="$PROJECT_DIR$/zolushka-chat/zolushka-chat-popup.html" />
-    </list>
+    <list default="true" id="40d26ea9-06b1-45c0-baf3-b1160bd4efe6" name="Default" comment="" />
     <ignored path="daniela.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -172,10 +167,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
+    <option name="x" value="1912" />
+    <option name="y" value="-302" />
     <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="height" value="1216" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -317,7 +312,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="1912" y="-302" width="1936" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
