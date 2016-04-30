@@ -383,7 +383,7 @@ setInterval(function(){
 
 chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
     if(request.type=='init'){
-        sendResponse({name: $('#myUN').val()});
+        sendResponse({name: $('#user-info p:eq(1)').text()});
     }
 });
 
