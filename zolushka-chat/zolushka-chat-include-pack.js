@@ -1,3 +1,4 @@
+var lang = {};
 (function (b) {
     lang = {
         en: {
