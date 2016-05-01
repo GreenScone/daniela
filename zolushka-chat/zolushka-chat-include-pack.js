@@ -204,7 +204,7 @@
         }
     };
     b("#Chat_OnlineStatus").parent().after('<tr><td style="text-align:center;padding:7px 0 7px;font-size:1.2em"><span id="infotext">' + lang.g_sendingstoped + '</span><br /><code id="infohelp" title="' + lang.g_alreadydend + " <- " + lang.g_waitsend + '">0 &lt;- 0</code></td></tr>');
-    var g = !1, l = b.cookie("AccountNumber"), r = b("#myAN").val(),
+    var g = !1, l = b.cookie("UserName"), r = b("#myAN").val(),
         z = b("#infohelp"), t = b("#infotext"), u = "zolushka-chat-2-" + l, d = localStorage.getItem(u), h = [], n = function (b) {
             a.var_count_send.from = b;
             a.var_count_send.to = h.length;
