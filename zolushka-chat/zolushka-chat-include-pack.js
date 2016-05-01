@@ -1,5 +1,5 @@
 (function (b) {
-    var lang = {
+    lang = {
         en: {
             'g_logo':'WMID.com.ua Bot extension for marriage agency zolushka, dream, svadba, jump4love',
             'g_help':'Help',
