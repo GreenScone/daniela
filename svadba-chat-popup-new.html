@@ -1,0 +1,28 @@
+<div class="home">
+	<div class="header">
+		<h1 class="logo">Плагин рассылки</h1>
+		<div class="clear10"></div>
+	</div>
+	<div class="content">
+		<div class="leftColumn">
+			<div class="clear10"></div>
+		</div>
+		<div class="rightColumn general" style="text-align:center; display:block;">
+			<div class="clear10"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script type="text/javascript">//<![CDATA[
+var WLANG = {
+	init_html:function(){
+		$.each(lang,function(i,v){
+			$('[lng="'+i+'"').text(v);
+		});
+	}
+};
+WLANG.init_html();
+
+var init=$("body").data("init");
+
+//]]></script>

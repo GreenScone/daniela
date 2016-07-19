@@ -1,0 +1,26 @@
+<div class="home">
+	<div class="header">
+		<h1 class="logo">Плагин рассылки</h1>
+		<div class="clear10"></div>
+	</div>
+	<div class="content">
+		<div class="leftColumn">
+			<div class="clear10"></div>
+		</div>
+		<div class="rightColumn" style="text-align:center; display:block;">
+			<span lng="g_notactivation">У Вас закончились дни активации! </span>
+			<div class="clear10"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script type="text/javascript">//<![CDATA[
+var WLANG = {
+	init_html:function(){
+		$.each(lang,function(i,v){
+			$('[lng="'+i+'"]').html(v);
+		});
+	}
+};
+WLANG.init_html();
+</script>
